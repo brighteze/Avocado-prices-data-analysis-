@@ -1,2 +1,2 @@
 # Avocado_Prices_Data_2020
-Avocado Prices Data 2020 Data Analysis
+Exploratory Data analysis using the Avocado Prices Data 2020 data. Link to the data is in the code.
